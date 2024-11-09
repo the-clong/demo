@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
-      key: "1",
-      name: "任务1",
-      state: 1,
-      priority: 2,
+      "key": "1",
+      "name": "任务1",
+      "state": 1,
+      "priority": 2,
     },
     {
-      key: "2",
-      name: "任务2",
-      state: 0,
-      priority: 1,
+      "key": "2",
+      "name": "任务2",
+      "state": 0,
+      "priority": 1,
     }
   ],
   "comments": [
